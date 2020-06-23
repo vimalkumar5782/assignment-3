@@ -1,0 +1,7 @@
+width= input("width=")
+height= input("height=")
+a= int(width)//2
+b= int(width)/2
+c= float(height)/3
+d= 1+2*5
+print("the values of ","\na=",a,"\nb=",b,"\nc=",c,"\nd=",d)
